@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+  <user id="1" type="admine">
+    <date d="Wed Oct 30 2024 20:27:08 GMT+0100 (heure normale d’Europe centrale)"/>
+    <email>admine@gmail.com</email>
+    <password>admin@admin.com</password>
+  </user>
+  <user id="2" type="user">
+    <date d="Tue Nov 05 2024 13:31:02 GMT+0100 (heure normale d’Europe centrale)"/>
+    <email>hmarwanf130@gmail.com</email>
+    <password>$2b$10$CAA8BiIsZQu0ut7WimDpnOywwqfhwn.u6usNhSgte8YOMpQXlQZMa</password>
+  </user>
+</users>

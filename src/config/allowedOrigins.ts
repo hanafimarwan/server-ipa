@@ -1,0 +1,1 @@
+export const allowedOrigins=["https://marouane-h.onrender.com"];
